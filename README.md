@@ -13,6 +13,8 @@ Dépôt contenant des exemples supplémentaires et des exercices
 3. Vous avez maintenant un environnement virtuel configuré pour ce projet.
 
 ### Notes sur les environnments virtuels
-Un environnement virtuel est un espace isolé sur votre machine où vous pouvez installer des package Python sans affecter les autres projets ou l'installation globale de Python. Cela permet de gérer les dépendances spécifiques à chaque projet.
-Ex: si un projet nécessite une version spécifique d'une bibliothèque, vous pouvez l'installer dans l'environnement virtuel de ce projet sans interférer avec d'autres projets qui pourraient nécessiter une version différente de la même bibliothèque.
+Un environnement virtuel est un espace isolé sur votre machine où vous pouvez installer des package Python sans affecter les autres projets ou l'installation globale de Python. Cela permet de gérer les dépendances spécifiques à chaque projet.  
+
+*Ex: si un projet nécessite une version spécifique d'une bibliothèque, vous pouvez l'installer dans l'environnement virtuel de ce projet sans interférer avec d'autres projets qui pourraient nécessiter une version différente de la même bibliothèque.*  
+
 Pour plus d'informations, vous pouvez consulter la documentation officielle de Python sur les environnements virtuels: [venv documentation](https://docs.python.org/3/library/venv.html)
