@@ -21,5 +21,5 @@ Pour plus d'informations, vous pouvez consulter la documentation officielle de P
 
 
 ## Extras
-La dossier `extras` contient des exemples supplémentaires sur des sujets vus en classe et sur des sujets plus avancés qui ne seront pas vus en classe. Ces exemples sont là pour vous aider à approfondir vos connaissances en Python et en programmation en général.  
+Le dossier `extras` contient des exemples supplémentaires sur des sujets vus en classe et sur des sujets plus avancés qui ne seront pas vus en classe. Ces exemples sont là pour vous aider à approfondir vos connaissances en Python et en programmation en général.  
 N'hésitez pas à les explorer et à les utiliser comme référence pour vos propres projets.
