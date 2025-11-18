@@ -1,0 +1,140 @@
+﻿Regne,Categorie,Nom_francais,Nom_latin,Presence_au_Quebec,Nom_anglais
+Champignons,Champignons,Chancre du noyer cendré,Ophiognomonia clavigignenti-juglandacearum,Établie,Butternut canker
+Champignons,Champignons,Chancre scléroderrien, race européenne,Gremmeniella abietina,Établie,Scleroderris canker
+Champignons,Champignons,Flétrissure du chêne,Bretziella fagacearum,Absente,Oak wilt
+Champignons,Champignons,Maladie corticale du hêtre,Neonectria faginata,Établie,Beech bark disease
+Champignons,Champignons,Maladie du rond,Heterobasidion irregulare,Établie,Annosus root and butt rot
+Champignons,Champignons,Maladie hollandaise de l’orme ,Ophiostoma novo-ulmi,Établie,Dutch elm disease
+Champignons,Champignons,Rouille vésiculeuse du pin blanc,Cronartium ribicola,Établie,White pine blister rust
+Faune,Autre,Méduse d’eau douce,Craspedacusta sowerbii,Établie ,Common freshwater jellyfish
+Faune,Crustacés,Cladocère épineux,Bythotrephes longimanus,Établie ,Spiny water flea
+Faune,Crustacés,Crabe chinois à mitaines,Eriocheir sinensis,Observation ponctuelle ,Chinese mitten crab
+Faune,Crustacés,Crevette rouge sang,Hemimysis anomala,Établie,Bloody red shrimp
+Faune,Crustacés,Écrevisse à taches rouges,Faxonius rusticus (ou Orconectes rusticus),Établie,Rusty crayfish
+Faune,Crustacés,Écrevisse de Louisiane,Procambarus clarkii,Absente,Red swamp crayfish 
+Faune,Crustacés,Écrevisse marbrée,Procambarus virginalis,Absente,Marbled crayfish
+Faune,Crustacés,Petite crevette d’eau douce,Echinogammarus ischnus,Établie,Freshwater shrimp
+Faune,Crustacés,Puce d’eau en hameçon,Cercopagis pengoi,Établie,Fishhook waterflea
+Faune,Insectes,Agrile du frêne,Agrilus planipennis,Établie,Emerald Ash Borer
+Faune,Insectes,Coccinelle asiatique,Harmonia axyridis,Établie,Asian ladybeetle
+Faune,Insectes,Complexe de la spongieuse volante (anciennement spongieuse asiatique),Lymantria dispar asiatica, L. dispar japonica,Absente,Flighted Spongy Moth Complex
+Faune,Insectes,Fulgore tacheté,Lycorma delicatula,Absente,Spotted lanternfly
+Faune,Insectes,Longicorne asiatique / Longicorne étoilé,Anoplophora glabripennis,Absente,Asian long-horned beetle
+Faune,Insectes,Longicorne brun des épinettes,Tetropium fuscum,Observation ponctuelle,Brown spruce longhorn beetle
+Faune,Insectes,Longicorne des agrumes,Anoplophora chinensis,Absente,Citrus longhorned beetle
+Faune,Insectes,Puceron lanigère de la pruche,Adelges tsugae,Absente,Hemlock woolly adelgid
+Faune,Insectes,Scarabée japonais,Popillia japonica,Établie,Japanese beetle
+Faune,Insectes,Punaise marbrée,Halyomorpha halys,Établie ,Brown marmorated stink bug 
+Faune,Insectes,Drosophile à ailes tachetée,Drosophila suzukii,Établie,Spotted wing drosophila
+Faune,Mammifères,Cerf rouge ou wapiti,Cervus elaphus,Observation récurrente,Red deer
+Faune,Mammifères,Cerf sika ,Cervus nippon,Observation ponctuelle,Sika deer
+Faune,Mammifères,Chat domestique,Felis silvestris catus,Établie,Domestic cat
+Faune,Mammifères,Daim européen,Dama dama,Observation ponctuelle,Fallow deer
+Faune,Mammifères,Lapin domestique,Oryctolagus cuniculus,Observation récurrente,European rabbit
+Faune,Mammifères,Porc domestique (races rustiques),Sus scrofa domesticus,Observation récurrente,Domestic pig
+Faune,Mammifères,Rat noir,Rattus rattus,Observation ponctuelle,Black rat
+Faune,Mammifères,Rat surmulot,Rattus norvegicus,Établie,Brown rat
+Faune,Mammifères,Sanglier,Sus scrofa,Observation récurrente,Wild boar
+Faune,Mammifères,Souris commune,Mus musculus,Établie ,House mouse
+Faune,Mollusques,Escargot des bois,Cepaea nemoralis,Établie,Brown-lipped snail
+Faune,Mollusques,Limace noire,Arion ater,Établie,Black slug
+Faune,Mollusques,Moule quagga,Dreissena bugensis,Établie,Quagga mussel
+Faune,Mollusques,Moule zébrée,Dreissena polymorpha,Établie ,Zebra mussels
+Faune,Mollusques,Nasse de Nouvelle-Zélande,Potamopyrgus antipodarum,Absente,New Zealand mud snail
+Faune,Mollusques,Petite corbeille d’Asie,Corbicula fluminea,Observation récurrente,Asiatic clam
+Faune,Mollusques,Vivipare chinoise,Cipangopaludina chinensis (ou Bellamya chinensis),Établie ,Chinese mystery snail
+Faune,Mollusques,Vivipare géorgienne,Viviparius georgianus (ou Callinina georgiana),Établie,Banded mystery snail
+Faune,Oiseaux,Conure veuve,Myopsitta monachus,Observation ponctuelle,Monk parakeet
+Faune,Oiseaux,Cygne tuberculé,Cygnus olor,Observation ponctuelle,Mute swan
+Faune,Oiseaux,Étourneau sansonnet,Sturnus vulgaris,Établie,European starling
+Faune,Oiseaux,Faisan de Colchide,Phasianus colchicus,Observation récurrente,Ring-necked pheasant
+Faune,Oiseaux,Moineau domestique,Passer domesticus,Établie,House sparrow
+Faune,Oiseaux,Pigeon biset,Columba livia,Établie,Rock pigeon
+Faune,Poissons,Carpe à grosse tête,Hypophtalmichthys nobilis,Absente,Bighead carp
+Faune,Poissons,Carpe argentée,Hypophtalmichthys molitrix,Absente,Silver carp
+Faune,Poissons,Carpe commune,Cyprinus carpio,Établie,Common carp
+Faune,Poissons,Carpe de roseau,Ctenopharyngodon idella,Observation ponctuelle ,Grass carp
+Faune,Poissons,Carpe koï,Cyprinus carpio,Établie ,Koi carp
+Faune,Poissons,Carpe noire,Mylopharyngodon piceus,Absente,Black carp
+Faune,Poissons,Crapet vert,Lepomis cyanellus,Établie ,Green sunfish
+Faune,Poissons,Faux gardon,Pseudorasbora parva,Absente,Stone moroko
+Faune,Poissons,Gardon rouge ou rotengle ,Scardinius erythrophtalmus,Établie ,Common rudd
+Faune,Poissons,Gobie à nez tubulaire,Proterorhinus semilunaris,Établie,Western tubenose goby
+Faune,Poissons,Gobie à taches noires,Neogobius melanostomus,Établie ,Round goby
+Faune,Poissons,Grémille,Gymnocephalus cernua,Absente,Ruffe
+Faune,Poissons,Poisson à tête de serpent,Channa argus,Absente,Northern snakehead
+Faune,Poissons,Poisson rouge,Carassius auratus,Établie ,Goldfish
+Faune,Poissons,Saumon rose,Oncorhynchus gorbuscha,Observation ponctuelle,Pink salmon
+Faune,Poissons,Tanche,Tinca tinca,Établie ,Tench
+Faune,Poissons,Tête-de-serpent,Channa spp., Parachanna spp.,Absente,Snakehead
+Faune,Poissons,Truite arc-en-ciel,Oncorhynchus mykiss,Établie,Rainbow trout
+Faune,Reptiles,Tortue à oreilles rouges,Trachemys scripta elegans,Observation récurrente ,Red-eared slider
+Faune,Vers,Vers de terre européens (regroupe plusieurs espèces),,Établie,Earthworm
+Faune,Vers,Ver plat à tête de marteau,Bipalium adventitium,Établie,Wandering broadhead planarian
+Faune,Vers,Ver sauteur asiatique,Amynthas tokioensis,Observation ponctuelle,Asian jumping worm
+Flore,Plantes aquatiques,Cabomba de Caroline,Cabomba caroliniana,Absente,Fanwort
+Flore,Plantes aquatiques,Châtaigne d'eau,Trapa natans,Établie,Water chestnut
+Flore,Plantes aquatiques,Élodée dense,Egeria densa,Absente,Brazilian waterweed
+Flore,Plantes aquatiques,Faux-nymphéa pelté,Nymphoides peltata,Établie,Yellow floatingheart
+Flore,Plantes aquatiques,Hydrille verticillée,Hydrilla verticillata,Absente,Hydrilla
+Flore,Plantes aquatiques,Hydrocharide grenouillette,Hydrocharis morsus-ranae,Établie,European frog-bit
+Flore,Plantes aquatiques,Jacinthe d'eau,Eichhornia crassipes,Observation ponctuelle,Water hyacinth
+Flore,Plantes aquatiques,Laitue d'eau,Pistia stratiotes,Observation ponctuelle,Water lettuce
+Flore,Plantes aquatiques,Myriophylle à épis,Myriophyllum spicatum,Établie,Eurasian water-milfoil
+Flore,Plantes aquatiques,Myriophylle aquatique,Myriophyllum aquaticum,Absente,Parrot feather
+Flore,Plantes aquatiques,Nitelle étoilée,Nitellopsis obtusa,Établie,Starry stonewort
+Flore,Plantes aquatiques,Petite naïade,Najas minor,Établie,Brittle-leaved naid
+Flore,Plantes aquatiques,Potamot crépu,Potamogeton crispus,Établie,Curly-leaved pondweed
+Flore,Plantes aquatiques,Salvinie spp.,Salvinia spp.,Observation ponctuelle,Water moss
+Flore,Plantes aquatiques,Stratiote faux-aloès,Stratiotes aloides,Établie,Water soldier
+Flore,Plantes de milieux humides,Alpiste roseau,Phalaris arundinacea,Établie,Reed canary grass
+Flore,Plantes de milieux humides,Butome à ombelle,Butomus umbellatus,Établie,Flowering-rush
+Flore,Plantes de milieux humides,Glycérie aquatique,Glyceria maxima,Établie,Rough mannagrass
+Flore,Plantes de milieux humides,Iris faux-acore,Iris pseudacorus,Établie,Yellow iris
+Flore,Plantes de milieux humides,Rorippe amphibie,Rorippa amphibia,Établie,Amphibious yellowcress
+Flore,Plantes de milieux humides,Roseau commun,Phragmites australis subsp. australis,Établie,Common reed
+Flore,Plantes de milieux humides,Salicaire commune,Lythrum salicaria,Établie,Purple loosestrife
+Flore,Plantes terrestres,Ailante glanduleux,Ailanthus altissima,Établie,Tree-of-heaven
+Flore,Plantes terrestres,Alliaire officinale,Alliaria petiolata,Établie,Garlic mustard
+Flore,Plantes terrestres,Anthrisque des bois,Anthriscus sylvestris,Établie,Wild chervil
+Flore,Plantes terrestres,Aulne glutineux,Alnus glutinosa,Établie,European black alder
+Flore,Plantes terrestres,Berce commune,Heracleum sphondylium,Établie,Meadow cow-parsnip
+Flore,Plantes terrestres,Berce du Caucase,Heracleum mantegazzianum,Établie,Giant hogweed
+Flore,Plantes terrestres,Célastre asiatique,Celastrus orbiculatus,Établie,Oriental bittersweet
+Flore,Plantes terrestres,Chèvrefeuille de Maack,Lonicera maackii,Absente,Maack's honeysuckle
+Flore,Plantes terrestres,Chèvrefeuille de Morrow,Lonicera morrowii,Établie,Morrow's honeysuckle
+Flore,Plantes terrestres,Chèvrefeuille de Tartarie,Lonicera tatarica,Établie,Tatarian honeysuckle
+Flore,Plantes terrestres,Chèvrefeuille joli,Lonicera xbella,Établie,Showy fly-honeysuckle
+Flore,Plantes terrestres,Consoude officinale,Symphytum officinale,Établie,Common comfrey
+Flore,Plantes terrestres,Dompte-venin de Russie,Vincetoxicum rossicum,Établie,European swallowwort
+Flore,Plantes terrestres,Dompte-venin noir,Vincetoxicum nigrum,Établie,Black swallowwort
+Flore,Plantes terrestres,Égopode podagraire,Aegopodium podagraria,Établie,Goutweed
+Flore,Plantes terrestres,Épine-vinette du Japon,Berberis thunbergii,Établie,Japanese barberry
+Flore,Plantes terrestres,Érable de l’Amour,Acer ginnala,Établie,Amur maple
+Flore,Plantes terrestres,Érable de Norvège,Acer platanoides,Établie,Norway maple
+Flore,Plantes terrestres,Gaillet mollugine,Galium mollugo,Établie,Smooth bedstraw
+Flore,Plantes terrestres,Grans pétasite,Petasites hybridus,Établie,Purple butterbur
+Flore,Plantes terrestres,Impatiente glanduleuse,Impatiens glandulifera,Établie,Himalayan balsam
+Flore,Plantes terrestres,Julienne des dames,Hesperis matronalis,Établie,Dame's rocket
+Flore,Plantes terrestres,Kudzu,Pueraria montana,Absente,Kudzu
+Flore,Plantes terrestres,Lamier jaune,Lamium galeobdolon,Établie,Yellow archangel
+Flore,Plantes terrestres,Lupin polyphylle,Lupinus polyphyllus,Établie,Large-leaved lupine
+Flore,Plantes terrestres,Microstégie en osier,Microstegium vimineum,Absente,Japanese stiltgrass
+Flore,Plantes terrestres,Miscanthus commun,Miscanthus sacchariflorus,Établie,Amur silvergrass
+Flore,Plantes terrestres,Miscanthus de Chine,Miscanthus sinensis,Établie,Chinese silvergrass
+Flore,Plantes terrestres,Nerprun bourdaine,Frangula alnus,Établie,Glossy buckthorn
+Flore,Plantes terrestres,Nerprun cathartique,Rhamnus cathartica,Établie,European buckthorn
+Flore,Plantes terrestres,Oléastre à ombelles,Elaeagnus umbellata,Absente,Autumn olive
+Flore,Plantes terrestres,Orme de Sibérie,Ulmus pumila,Établie,Siberian elm
+Flore,Plantes terrestres,Pétasite du Japon,Petasites japonicus,Établie,Japanese sweet coltsfoot
+Flore,Plantes terrestres,Petite pervenche,Vinca minor,Établie,Lesser periwinkle
+Flore,Plantes terrestres,Renoncule ficaire,Ficaria verna,Établie,Lesser celandine
+Flore,Plantes terrestres,Renouée de Bohème,Reynoutria ×bohemica,Établie,Bohemian knotweed
+Flore,Plantes terrestres,Renouée de Sakhaline,Reynoutria sachalinensis,Établie,Giant knotweed
+Flore,Plantes terrestres,Renouée du Japon,Reynoutria japonica,Établie,Japanese knotweed
+Flore,Plantes terrestres,Robinier faux-acacia,Robinia pseudoacacia,Établie,Black locust
+Flore,Plantes terrestres,Rosier multiflore,Rosa multiflora,Établie,Multiflora rose
+Flore,Plantes terrestres,Rosier rugueux,Rosa rugosa,Établie,Rugosa rose
+Flore,Plantes terrestres,Topinambour,Helianthus tuberosus,Établie,Jerusalem artichoke
+Flore,Plantes terrestres,Valériane officinale,Valeriana officinalis,Établie,Common valerian
+Flore,Plantes terrestres,Vigne vierge à cinq folioles,Parthenocissus quinquefolia,Établie,Virginia creeper
